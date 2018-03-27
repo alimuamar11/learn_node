@@ -3,9 +3,10 @@ Ada banyak keuntungan dari cloud computing, namun tidak sepenuhnya jelas. Konsep
 
 ## Jadi apa keuntungannya?
 
-'1. Mengurangi biaya. Jika anda menggunakan cloud computing, anda tidak perlu membeli dan mendownload program, karena semua informasi yang anda butuhkan dapat disimpan di cloud. Dalam kasus tertentu, anda hanya perlu mengeluarkan biaya untuk software dan kapasitas penyimpanan yang anda butuhkan.'
-'2. Update. Dari waktu ke waktu, hardware dan software pasti akan butuh update. Dengan cloud, semua software akan ter – update secara otomatis. Hal ini akan mengurangi biaya dan juga waktu tentunya.'
-'3. Bekerja dari mana saja. Anda dapat bekerja dari mana saja, selama anda bisa mengakses cloud. Anda tidak usah membawa – bawa banyak harddisk dan sejenisnya, cukup mengaksesnya lewat cloud.'
-'4. Instalasi yang mudah. Proses instalasi cloud cukup mudah.'
-'5. Waktu respon yang lebih cepat. Dengan mengakses via cloud akan lebih cepat untuk mendapatkan informasi yang anda butuhkan.'
+1. Mengurangi biaya. Jika anda menggunakan cloud computing, anda tidak perlu membeli dan mendownload program, karena semua informasi yang anda butuhkan dapat disimpan di cloud. Dalam kasus tertentu, anda hanya perlu mengeluarkan biaya untuk software dan kapasitas penyimpanan yang anda butuhkan.
+2. Update. Dari waktu ke waktu, hardware dan software pasti akan butuh update. Dengan cloud, semua software akan ter – update secara otomatis. Hal ini akan mengurangi biaya dan juga waktu tentunya.
+3. Bekerja dari mana saja. Anda dapat bekerja dari mana saja, selama anda bisa mengakses cloud. Anda tidak usah membawa – bawa banyak harddisk dan sejenisnya, cukup mengaksesnya lewat cloud.
+4. Instalasi yang mudah. Proses instalasi cloud cukup mudah.'
+5. Waktu respon yang lebih cepat. Dengan mengakses via cloud akan lebih cepat untuk mendapatkan informasi yang anda butuhkan.'
+
 Kecemasan ketika bencana alam. Ketika ada bencana alam, atau listrik mati, umumnya data bisa hilang ketika belum disave. Dengan cloud, semuanya akan disave, sehingga hal ini dapat dihindari.'
