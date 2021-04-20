@@ -1,4 +1,15 @@
-var logg = require('./logger'); //untuk meload module
-console.log(logg); //cek apakah sudah terload
+const http= require('http');
 
-logg('message'); //pemanggilan fungsi
+const server = http.createServer(function(req,res){
+    if (req.url === '/'){
+        res.write('Hello brow');
+        res.end();
+    }
+    if (req.url === '/api/course'){
+        res.write(JSON.stringify([1,2,3]));
+        res.end();
+    }
+});
+
+server.listen(3000);
+console.log('Listening on port 3000.....');
